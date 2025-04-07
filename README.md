@@ -1,6 +1,6 @@
 # NFT Marketplace Demo
 
-[![Deploy to GitHub Pages](https://github.com/USERNAME/nft_dev/actions/workflows/deploy.yml/badge.svg)](https://github.com/USERNAME/nft_dev/actions/workflows/deploy.yml)
+[![Deploy to GitHub Pages](https://github.com/golbargfatemi/nft_dev/actions/workflows/deploy.yml/badge.svg)](https://github.com/USERNAME/nft_dev/actions/workflows/deploy.yml)
 
 A simple NFT marketplace landing page built with React and Vite.
 
@@ -19,7 +19,7 @@ This project includes a development environment with hot reload capabilities usi
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/USERNAME/nft_dev.git
+   git clone https://github.com/golbargfatemi/nft_dev.git
    cd nft_dev
    ```
 
