@@ -22,7 +22,7 @@ This project includes a development environment with hot reload capabilities usi
    git clone https://github.com/golbargfatemi/nft_dev.git
    cd nft_dev
    ```
-ss
+
 2. Start the development container:
    ```bash
    docker-compose up
